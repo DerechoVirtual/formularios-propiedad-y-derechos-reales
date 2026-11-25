@@ -1,0 +1,25 @@
+{
+  "name": "formularios-propiedad-y-derechos-reales",
+  "version": "1.1.0",
+  "description": "Propiedad, posesión, servidumbres e hipotecas: 43 formularios revisados el 25-11-2026, cada uno convertido en una skill que lo rellena paso a paso. Para los derechos reales: acción reivindicatoria y declarativa de dominio, tutela de la posesión, servidumbres, división de cosa común, retractos, deslinde, inmatriculación y asuntos registrales, usufructo y derecho de superficie. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Propiedad, posesión, servidumbres e hipotecas · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "civil",
+    "propiedad-y-derechos-reales"
+  ],
+  "repository": "https://github.com/DerechoVirtual/formularios-propiedad-y-derechos-reales"
+}
